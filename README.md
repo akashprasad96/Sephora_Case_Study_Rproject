@@ -8,7 +8,6 @@ The goal is to transform raw data into **actionable business recommendations** t
 
 Dataset Source: [Sephora Products and Skincare Reviews (Kaggle)](https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews)
 
----
 
 ## 🎯 Objectives
 - Evaluate how **product categories** differ in customer satisfaction and popularity  
@@ -16,39 +15,33 @@ Dataset Source: [Sephora Products and Skincare Reviews (Kaggle)](https://www.kag
 - Assess how **brand exclusivity** and **limited editions** impact engagement  
 - Provide **strategic recommendations** for product mix optimization
 
----
 
 ## 🧠 Tools & Libraries
 - **R**  
 - tidyverse • dplyr • ggplot2 • janitor • stringr  
 - Data cleaning, exploratory data analysis (EDA), and visualization  
 
----
 
 ## 📂 Repository Structure
-Sephora_Case_Study_Rproject/
-│
-├── data/ → Raw dataset files (CSV format)
-├── scripts/ → R scripts and Instruction.pdf
-├── visuals/ → Plots and visual outputs
-└── reports/ → Presentation deck with recommendations
+- **/data/** – Raw dataset files (CSV format)  
+- **/scripts/** – R scripts and `Instruction.pdf`  
+- **/visuals/** – Plots and visualization outputs  
+- **/reports/** – Presentation deck with recommendations  
 
 
----
 
 ## 📊 Key Insights
 - Product categories such as **skincare and makeup** drive the majority of engagement.  
 - **Price and satisfaction** are not directly correlated — customers often favor mid-range products.  
 - **Exclusive products** see higher engagement but not always higher ratings.  
 
----
+
 
 ## 🪄 Visualizations
 - Bar charts comparing product category vs. average rating  
 - Scatter plot: Price vs. Customer Rating  
 - Boxplot: Engagement (loves count) vs. Exclusivity  
 
----
 
 ## 📈 Deliverables
 - Cleaned dataset  
@@ -56,7 +49,7 @@ Sephora_Case_Study_Rproject/
 - Visual plots  
 - Final presentation with data-backed recommendations  
 
----
+
 
 ## 🧾 Author
 **Akash Prasad**  
